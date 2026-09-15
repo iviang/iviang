@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi, I'm Vivian (she/her) 👋 
+
+- 🔭 Active projects:
+  - 🏠 a Reventure app clone
+  - 🍖 a Protein recipes website
+  - 🐹 building a personal website
+- 🌱 I’m currently learning:
+  - Github Fundamentals
+  - PCB design
+  - Claude cowork
+- 🤔 I’m looking for help with learning PCB design
+- 📫 Contact: www.linkedin.com/in/vivian-k-nguyen
+
 
 <!--
 **iviang/iviang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
