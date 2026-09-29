@@ -1,7 +1,7 @@
 ## Hi, I'm Vivian (she/her) 👋 
 
 - 🔭 Active projects:
-  - 🏠 a Reventure app clone
+  - 🏠 Kool Quarters data pipeline
   - 🍖 a Protein recipes website
   - 🐹 building a personal website
 - 🌱 I’m currently learning:
